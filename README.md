@@ -24,12 +24,9 @@ git clone https://https://github.com/Butria/AnimeVerse.git
 
 ## Screenshots
 
-![image](https://github.com/Butria/AnimeVerse/assets/113056692/2362c5ae-4c77-405a-83c1-7d9769d65647)
-
-![image](https://github.com/Butria/AnimeVerse/assets/113056692/28753a2b-60f9-4fb6-9739-b7a2fbfd3873)
-
-![image](https://github.com/Butria/AnimeVerse/assets/113056692/62de60d4-ab3a-4ef6-9e77-c2ecf13bd323)
-
+![Screenshot 1](image-1.png)
+![Screenshot 2](image-2.png)
+![Screenshot 3](image-3.png)
 
 
 
