@@ -22,7 +22,7 @@ AnimeVerse App is a web application that allows you to search and view informati
 ```bash
 git clone https://https://github.com/Butria/AnimeVerse.git
 
-Screenshots
+## Screenshots
 
 ![image](https://github.com/Butria/AnimeVerse/assets/113056692/2362c5ae-4c77-405a-83c1-7d9769d65647)
 
