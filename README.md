@@ -22,14 +22,5 @@ AnimeVerse App is a web application that allows you to search and view informati
 ```bash
 git clone https://https://github.com/Butria/AnimeVerse.git
 
-## Screenshots
-
-![Screenshot 1](image-1.png)
-![Screenshot 2](image-2.png)
-![Screenshot 3](image-3.png)
-
-
-
-
 Contributions
 Contributions are welcome! If you find any bugs or have any improvements, please create an issue or submit a pull request.
